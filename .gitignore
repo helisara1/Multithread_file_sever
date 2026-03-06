@@ -1,0 +1,32 @@
+# Compiled Java files
+*.class
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE folders
+.vscode/
+.idea/
+
+# Build folders
+bin/
+out/
+target/
+
+# Mac metadata
+*.DS_Store
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Backup files
+*~
