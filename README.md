@@ -72,7 +72,22 @@ java client.FileClient
 4 DELETE
 5 QUIT
 ```
+## Screenshots
 
+### Server Started
+![Server Started](screenshots/server_started.png)
+
+### List Files
+![List Files](screenshots/list_files.png)
+
+### File Upload
+![File Upload](screenshots/file_upload.png)
+
+### File Download and Delete
+![Download Delete](screenshots/file_download_delete.png)
+
+### Client Disconnect / Quit
+![Disconnect](screenshots/disconnect_quit.png)
 ## Technologies Used
 
 * Java
